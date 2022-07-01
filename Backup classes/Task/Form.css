@@ -1,0 +1,40 @@
+
+
+
+  *,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Convergence", sans-serif;
+  height: 100vh;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.2rem;
+  /* background-color: $clr-bg;
+} */}
+
+.form {
+  position: relative;
+  width: 20rem;
+  height: 3rem;}
+  
+ .container.pre{
+    border: 100px;
+    height: 100px;
+    
+    border-color: black;
+}
+.a {
+    all: initial;
+  }
+  
+  .b {
+    border: 1px solid black;
+    padding : 8px;
+  } 
